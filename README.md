@@ -36,16 +36,3 @@ And following [here](./settings.md) for additional settings.
 ### Research Log [🔗](./research_log/README.md)
 
 ### ISSUE [🔗](./issue/READEME.md)
-
-# All about Progress
-- Autonomous Driving Competition with ERP42 Platform [🔗](https://github.com/j-wye/erp42_drive)
-
-- Autonomous Driving Competition with Turtlebot4 on Campus [🔗](https://github.com/j-wye/tb_project)
-
-- Personal Projects about Object Detection [🔗](https://github.com/j-wye/Personal_Projects)
-
-- Colonoscopy Gazebo Simulation [🔗](https://github.com/j-wye/endoscope_project)
-
-- DROID-SLAM [🔗](https://github.com/j-wye/droid_slam)
-
-- Holistic_Control [🔗](https://github.com/j-wye/Holistic_Control)
