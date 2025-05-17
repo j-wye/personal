@@ -8,7 +8,7 @@
 If you want to setup include CUDA, cuDNN and Anaconda follows (***I recommend***):
 ```bash
 mkdir -p A && cd ~/A
-wget https://raw.githubusercontent.com/j-wye/j-wye.github.io/main/autoset.sh
+wget https://raw.githubusercontent.com/j-wye/personal.github.io/main/autoset.sh
 bash autoset.sh
 source ~/.bashrc
 ```
