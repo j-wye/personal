@@ -3,7 +3,6 @@
 - **Nvidia-driver-535**
 - **CUDA 11.8**
 - **cuDNN 8.7.0**
-- include **Anaconda**
 
 If you want to setup include CUDA, cuDNN and Anaconda follows (***I recommend***):
 ```bash
